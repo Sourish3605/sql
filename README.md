@@ -13,4 +13,5 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sourish3605/sql/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Sourish3605/sql/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Sourish3605/sql/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Sourish3605/sql/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
