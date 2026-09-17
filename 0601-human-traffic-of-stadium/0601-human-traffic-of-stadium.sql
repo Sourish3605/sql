@@ -1,8 +1,5 @@
 /*s1, s2, s3 represent consecutive IDs id,id+1,id+2 */
-SELECT 
-    id
-    ,visit_date
-    ,people
+SELECT id,visit_date,people
 FROM stadium
 WHERE id IN (
     SELECT s1.id /*s1 is selected*/
